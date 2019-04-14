@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
+
+body {
+  background: lightseagreen;
+  padding: 3rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: azure;
+}
+ul{
+  list-style-type: none;
+  margin: 0 0 2em 0;
+  padding: 0;
+}
+ul li {
+  display: inline;
+  margin-right: 30px;
+}
